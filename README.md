@@ -33,8 +33,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+I think the main issue I had was just learning the user interface of xcode, as it seemed very daunting at first. I eventually got around it though, and I had a lot of fun making the app!
 
 ## License
 
